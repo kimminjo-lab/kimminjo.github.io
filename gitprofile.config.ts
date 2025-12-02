@@ -59,7 +59,7 @@ const CONFIG = {
     instagram: 'hannahkimminjo',
     github: 'kimminjo-lab',
     website: '',
-    email: 'your_email@example.com',
+    email: 'memorichip@naver.com',
     linkedin: '',
     x: '',
   },
