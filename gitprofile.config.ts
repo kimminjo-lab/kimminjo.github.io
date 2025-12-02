@@ -6,7 +6,7 @@ const CONFIG = {
   },
 
   // GitHub Pages에서 이 프로젝트를 리포지토리 이름을 포함한 경로로 배포할 거면 base 설정
-  base: '/memorichip.gitprofile/',
+  base: '/',
 
   projects: {
     github: {
